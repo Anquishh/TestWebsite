@@ -1,0 +1,30 @@
+
+
+body{
+
+    background-color: white;
+
+}
+div.loginBox{
+    height: 35px;
+}
+h1  {
+
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+
+}
+a.forgotPass{
+    color: blueviolet;
+}
+a.forgotPass:hover{
+
+    color: rgb(148, 225, 228);
+
+}
+label.loginText{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
